@@ -1,5 +1,5 @@
 # Multi-Platform-Views
-Works with Instagram, Youtube, &amp; more!
+Works with Tiktok, Instagram, Youtube, &amp; more!
 -
   Update proxies.txt with your proxies 
 -
